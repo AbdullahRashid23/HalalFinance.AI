@@ -1,0 +1,6 @@
+gradio==4.44.0
+pypdf2
+sentence-transformers
+requests
+numpy
+markdown
